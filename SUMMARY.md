@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Documentation-Center](README.md)
+* [Developer Platform](README.md)
