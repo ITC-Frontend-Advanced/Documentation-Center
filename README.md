@@ -23,4 +23,7 @@ metaLinks:
 
 <h2 align="center">ITC Frontend Advanced</h2>
 
-<p align="center">Documentation Center for all Dev Docs and Guide to start you project</p>
+<p align="center">Documentation Center for all Dev Docs and Guide to start your project</p>
+
+{% embed url="https://github.com/ITC-Frontend-Advanced/" %}
+
