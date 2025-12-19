@@ -21,7 +21,7 @@ metaLinks:
 
 # Developer Platform
 
-<h2 align="center">ITC Frontend Advanced</h2>
+<h2 align="center">ITC Documentation</h2>
 
 <p align="center">Documentation Center for all Dev Docs and Guide to start your project</p>
 
