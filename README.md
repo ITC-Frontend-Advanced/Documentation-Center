@@ -1,29 +1,56 @@
 ---
-description: Welcome to your team’s developer platform
+description: New updates and improvements
+icon: clock-rotate-left
 layout:
   width: wide
   title:
-    visible: false
+    visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: false
   outline:
-    visible: false
+    visible: true
   pagination:
     visible: false
   metadata:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/2AwfWOGBWBxQmyvHedqW/
+    - https://app.gitbook.com/s/euz6U9T9Ui1Un0dUKuuZ/
 ---
 
-# Developer Platform
+# Changelog
 
-<h2 align="center">ITC Frontend Advanced</h2>
+{% updates format="full" %}
+{% update date="2025-12-19" %}
+## Docs Updates
 
-<p align="center">Documentation Center for all Dev Docs and Guide to start your project</p>
+See what’s new and improved in our latest update.
 
-{% embed url="https://github.com/ITC-Frontend-Advanced/" %}
+### Git & GitHub Documentation
 
+* Complete documentation to help you get started with Git
+* Linked with curated resources for deeper learning
+
+<a href="https://app.gitbook.com/o/B7z8cje6lUyXzds1ghGS/s/pzNoKyRT08lgbjfyEuxL/" class="button primary">Read the documentation</a>
+
+<details>
+
+<summary>Improved</summary>
+
+* Redesigned **Getting Started** page for Git & GitHub
+* New **Git Installation** guide
+* Expanded coverage of key GitHub features
+
+</details>
+
+<details>
+
+<summary>Fixed</summary>
+
+<sub>~~No issues reported in this release~~</sub>
+
+</details>
+{% endupdate %}
+{% endupdates %}
