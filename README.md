@@ -27,3 +27,4 @@ metaLinks:
 
 {% embed url="https://github.com/ITC-Frontend-Advanced/" %}
 
+{% @formspree/formspree %}
