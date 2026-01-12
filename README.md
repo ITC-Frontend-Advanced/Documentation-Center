@@ -29,7 +29,7 @@ metaLinks:
 We’ve officially launched courses on the platform.\
 You can now follow structured lessons with clear explanations and practical examples to learn step by step.
 
-<p align="center"><a href="https://docs.elorabiabderraouf.dev/documentation/git-github/courses/part-1" class="button primary">Git &#x26; GitHub Course</a><a href="https://docs.elorabiabderraouf.dev/documentation/javascript/courses/part-2" class="button primary">ECMA Script Course</a></p>
+<p align="center"><a href="https://docs.elorabiabderraouf.dev/documentation/git-github/courses/part-1" class="button primary" data-icon="github">Git &#x26; GitHub Course</a><a href="https://docs.elorabiabderraouf.dev/documentation/javascript/courses/part-2" class="button primary" data-icon="js">ECMA Script Course</a></p>
 
 <details>
 
@@ -51,7 +51,7 @@ See what’s new and improved in our latest update.
 * Complete documentation to help you get started with Git
 * Linked with curated resources for deeper learning
 
-<p align="center"><a href="https://app.gitbook.com/o/B7z8cje6lUyXzds1ghGS/s/pzNoKyRT08lgbjfyEuxL/" class="button primary">Read the documentation</a></p>
+<p align="center"><a href="https://app.gitbook.com/o/B7z8cje6lUyXzds1ghGS/s/pzNoKyRT08lgbjfyEuxL/" class="button primary" data-icon="book-sparkles">Read the documentation</a></p>
 
 <details>
 
